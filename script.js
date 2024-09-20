@@ -19,7 +19,7 @@ const table = {
     ]
 };
 
-// Ball and Cue properties
+ // Ball and Cue properties
 const cueBall = {x: 400, y: 200, radius: 10, color: 'white', vx: 0, vy: 0};
 const balls = [
     {x: 300, y: 200, radius: 10, color: 'red', vx: 0, vy: 0},
